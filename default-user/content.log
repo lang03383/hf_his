@@ -163,3 +163,9 @@ presets/instruct/Llama-3-Instruct-Names.json
 presets/instruct/ChatML-Names.json
 presets/context/Llama-3-Instruct-Names.json
 presets/context/ChatML-Names.json
+themes/Celestial Macaron.json
+themes/Dark V 1.0.json
+presets/context/DreamGen Role-Play V1 ChatML.json
+presets/context/DreamGen Role-Play V1 Llama3.json
+presets/instruct/DreamGen Role-Play V1 ChatML.json
+presets/instruct/DreamGen Role-Play V1 Llama3.json
