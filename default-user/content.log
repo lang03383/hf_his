@@ -169,3 +169,6 @@ presets/context/DreamGen Role-Play V1 ChatML.json
 presets/context/DreamGen Role-Play V1 Llama3.json
 presets/instruct/DreamGen Role-Play V1 ChatML.json
 presets/instruct/DreamGen Role-Play V1 Llama3.json
+themes/Azure.json
+presets/context/Gemma 2.json
+presets/instruct/Gemma 2.json
