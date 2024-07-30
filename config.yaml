@@ -9,7 +9,7 @@ whitelistMode: false
 whitelist:
   - 127.0.0.1
 # Toggle basic authentication for endpoints
-basicAuthMode: true
+basicAuthMode: ture
 # Basic authentication credentials
 basicAuthUser:
   username: "user"
