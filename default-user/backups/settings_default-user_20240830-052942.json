@@ -304,11 +304,7 @@
         "forbid_external_media": true,
         "external_media_allowed_overrides": [],
         "external_media_forbidden_overrides": [],
-        "auto_sort_tags": false,
-        "selectSamplers": {
-            "forceHidden": [],
-            "forceShown": []
-        }
+        "auto_sort_tags": false
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
