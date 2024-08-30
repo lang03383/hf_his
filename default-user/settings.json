@@ -1,7 +1,7 @@
 {
     "firstRun": false,
     "currentVersion": "1.12.3",
-    "username": "鲁迪斯",
+    "username": "雪懒",
     "api_server": "http://127.0.0.1:5000/api",
     "preset_settings": "gui",
     "user_avatar": "user-default.png",
@@ -261,9 +261,18 @@
             "use_stop_strings": true,
             "allow_jailbreak": false
         },
-        "personas": {},
+        "personas": {
+            "user-default.png": "雪懒"
+        },
         "default_persona": null,
-        "persona_descriptions": {},
+        "persona_descriptions": {
+            "user-default.png": {
+                "description": "",
+                "position": 0,
+                "depth": 2,
+                "role": 0
+            }
+        },
         "persona_description": "",
         "persona_description_position": 0,
         "persona_description_role": 0,
