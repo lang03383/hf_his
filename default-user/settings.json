@@ -915,7 +915,8 @@
         "dd516a1b8913d8d9.png": [],
         "3.png": [],
         "ded6f47cf3c2a358.png": [],
-        "素霞双修录.png": []
+        "素霞双修录.png": [],
+        "素霞双修录1.png": []
     },
     "nai_settings": {
         "temperature": 1.5,
@@ -1252,8 +1253,8 @@
         "n": 1
     },
     "background": {
-        "name": "__transparent.png",
-        "url": "url(\"backgrounds/__transparent.png\")"
+        "name": "00023-2181374825.png",
+        "url": "url(\"backgrounds/00023-2181374825.png\")"
     },
     "proxies": [
         {
