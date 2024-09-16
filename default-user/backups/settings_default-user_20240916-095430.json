@@ -314,11 +314,7 @@
         "forbid_external_media": true,
         "external_media_allowed_overrides": [],
         "external_media_forbidden_overrides": [],
-        "auto_sort_tags": false,
-        "selectSamplers": {
-            "forceHidden": [],
-            "forceShown": []
-        }
+        "auto_sort_tags": false
     },
     "extension_settings": {
         "apiUrl": "http://localhost:5100",
@@ -908,18 +904,7 @@
         ],
         "default_CodingSensei.png": [
             "1345561466591"
-        ],
-        "undefined": [],
-        "1.png": [],
-        "cc38a977ad788368.png": [],
-        "4ac3efadf5f2f9d6.png": [],
-        "68f7efcc2423d799.png": [],
-        "a530a160e9ebdff4.png": [],
-        "dd516a1b8913d8d9.png": [],
-        "3.png": [],
-        "ded6f47cf3c2a358.png": [],
-        "素霞双修录.png": [],
-        "素霞双修录1.png": []
+        ]
     },
     "nai_settings": {
         "temperature": 1.5,
